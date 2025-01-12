@@ -17,7 +17,6 @@ class A{
     }
 }
 
-
 public class MethodJava {
 
     public static int addition(int num1,int num2){

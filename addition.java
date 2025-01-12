@@ -6,13 +6,12 @@ public class addition {
         add = $num1 + $num2;
         System.out.println("value of "+$num1+" + "+$num2+" is "+add);
 
-        int x=7;
+        int x=9;
         int y = ++x*8;
         System.out.println(y);
 
-        char ch = 'c';
+        char ch = 'C';
         System.out.println(++ch);
-
         
     }
 }
