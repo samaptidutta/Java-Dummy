@@ -12,6 +12,8 @@ public class addition {
 
         char ch = 'C';
         System.out.println(++ch);
-        
+
+System.out.println("Hehehe");
+
     }
 }
